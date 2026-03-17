@@ -1,36 +1,19 @@
 # 👋 Konnichiwa! I'm Omath Dintharu 🇱🇰🇯🇵
 
-### 🔐 Cybersecurity Enthusiast | Python Developer | Tech Entrepreneur
+### 🔐 Cybersecurity & Python Scripting Enthusiast
 
-A goal-oriented student from Sri Lanka, dedicated to mastering **Digital Defense** and **Security Automation**. I am actively building a bridge between technical security expertise and global business operations, with a strategic focus on the **Japanese Technology Ecosystem**.
+I am a security-focused student from Sri Lanka, bridging technical defense with the **Japanese Tech Ecosystem**.
 
----
-
-## 🛡️ Strategic Focus & Goals
-- 🐍 **Security Engineering:** Mastering Python for automation, scripting, and defensive security tools.
-- 🇯🇵 **Global Integration:** Achieving **JLPT N2** proficiency to pursue advanced Cybersecurity studies and professional opportunities in Japan.
-- 🏗️ **Technical Portfolio:** Maintaining a daily coding streak to demonstrate consistency and rapid skill acquisition.
+- 🐍 **Currently:** Mastering Python for Security Automation.
+- 🇯🇵 **Language Goal:** JLPT N2 proficiency for professional integration in Japan.
+- 🏗️ **Projects:** Building automated security tools and daily Python scripts.
 
 ---
 
-## 🛠️ Tech Stack & Skills
-- **Programming:** Python (Focused on Security Scripting), Basic HTML/CSS.
-- **Tools & Workflow:** Git, GitHub, VS Code, Linux Basics.
-- **Communication:** - **Sinhala:** Native
-  - **English:** Professional Working Proficiency
-  - **Japanese:** Intermediate (JLPT Study in Progress)
-  - **French:** Basic
+## 🛠️ Skills at a Glance
+- **Tech:** Python, Git, GitHub, VS Code.
+- **Languages:** Sinhala (Native), English (Pro), Japanese (Intermediate), French (Basic).
 
 ---
 
-## 🚀 Research & Interests
-- **Secure Global Hub Concept:** Developing a conceptual framework for an encrypted AI-driven bridge for international trade and data exchange.
-- **Network Defense:** Exploring automated threat detection and response systems.
-
----
-
-## 📊 Performance Tracking
-- 📅 **Status:** Day 03 of Python for Security Intensive.
-- 🟩 **Commitment:** Focused on 365 days of consistent GitHub contributions.
-
-> "In a digital-first world, security is the foundation of trust. I am building that foundation."
+> "Security is not an option; it's a necessity."
