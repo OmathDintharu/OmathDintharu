@@ -13,7 +13,6 @@ I am a security-focused student from Sri Lanka, bridging technical defense with 
 ## 🛠️ Skills at a Glance
 - **Tech:** Python, Git, GitHub, VS Code.
 - **Languages:** Sinhala (Native), English (Pro), Japanese (Intermediate), French (Basic).
-- bn
 
 ---
 
